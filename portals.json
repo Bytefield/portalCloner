@@ -1,0 +1,12 @@
+{
+    "portal1": {
+        "name": "name",
+        "base": "baseFolder",
+        "url": "/folderName"
+    },
+    "portal2": {
+        "name": "name2",
+        "base": "baseFolder2",
+        "url": "/folderName2"
+    }
+}
